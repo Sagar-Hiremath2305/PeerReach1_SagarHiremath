@@ -9,4 +9,11 @@ Chat Interface: If you click on a chat,it takes you to a message screen.It looks
 Nearby Users: I added a tab to see other users.
 Settings: This is where you can see save option for a user.
 
-<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 22 27 PM" src="https://github.com/user-attachments/assets/27d8dd6d-a38f-4045-8bab-3f60cb233d5c" />
+
+<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 21 54 PM" src="https://github.com/user-attachments/assets/796cfd33-3aa2-4a9a-807f-a54e5e1c4aab" />
+<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 22 08 PM" src="https://github.com/user-attachments/assets/848c70c5-a025-43de-8add-e4c5c2bbb588" />
+<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 22 16 PM" src="https://github.com/user-attachments/assets/28ec94ee-4af9-48ce-ab1c-09598efcfcec" />
+<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 22 20 PM" src="https://github.com/user-attachments/assets/71b1bc2e-eb75-4fa8-8c85-c480e4847dc3" />
+<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 22 27 PM" src="https://github.com/user-attachments/assets/294f3162-d512-4876-af43-aa15ddf526ac" />
+<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 22 33 PM" src="https://github.com/user-attachments/assets/99a78a52-9560-4f41-91e0-bacbd76b7f6b" />
+<img width="1440" height="900" alt="Screenshot 2025-11-30 at 11 22 53 PM" src="https://github.com/user-attachments/assets/3ec2c352-de16-4c65-801a-10ea3f380d97" />
